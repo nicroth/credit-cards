@@ -1,6 +1,14 @@
 # Protection Benefits List
 
-### Chase Sapphire Preferred
+## Table of Contents
+
+#### $100-level
+
+* [Chase Sapphire Preferred](#csp)
+* [Barclay Arrival+](#arrivalplus)
+* [Citi ThankYou Premier](#citipremier)
+
+### [Chase Sapphire Preferred](id:csp)
 
 See detailed benefits [here](https://cdn.f9client.com/api/file/1130204/inline/SapphirePreferred_Visa_Signature_V0000037_BGC10374_Eng_P.pdf "CSP Benefits Guide").
 
@@ -52,7 +60,7 @@ Must charge some portion of the fare. Coverage up to $500,000 depending on injur
 
 $59.95 per call. Includes towing up to  5 miles, tire changing, jump starting, lockout service, fuel delivery, or winching. 
 
-### Barclay Arrival+
+### [Barclay Arrival+](id:arrivalplus)
 
 See detailed benefits [here](https://www.barclaycardus.com/servicing/img/base/guideBenefits/BAR-4667-4_AIR_MX.pdf "Arrival+ Benefits Guide").
 
@@ -88,7 +96,7 @@ Reimburse $100 per day for 3 days if bags are delayed more than 12 hours. Must p
 
 Payment up to $1,500 in the event of cancellation/interruption from death, accidental injury, disease, or physical illness. Must be verified by a physician and prevent person from traveling. 
 
-### Citi Premier
+### [Citi Premier](id:citipremier)
 
 See some detailed benefits [here](http://cl.ly/Zyop "Premier Benefits Guide"). Need to find a copy of the benefits guide for more details. 
 
