@@ -1,8 +1,8 @@
 # Protection Benefits List
 
-## Table of Contents
+#### Table of Contents
 
-#### $100-level
+###### $100-level
 
 * [Chase Sapphire Preferred](#csp)
 * [Barclay Arrival+](#arrivalplus)
