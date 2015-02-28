@@ -2,11 +2,25 @@
 
 #### Table of Contents
 
-###### $100-level
+
+###### General $0 / No Annual Fee Cards
+
+* Coming soon
+
+###### General $1-$125 Annual Fee Cards
 
 * [Chase Sapphire Preferred](#csp)
 * [Barclay Arrival+](#arrivalplus)
 * [Citi ThankYou Premier](#citipremier)
+
+###### General $126-$350 Annual Fee Cards
+
+* Coming soon
+
+###### General $351+ Annual Fee Cards
+
+* Coming soon
+
 
 ### [Chase Sapphire Preferred](id:csp)
 
