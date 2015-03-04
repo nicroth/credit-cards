@@ -1,0 +1,36 @@
+
+### [Citi Premier](id:citipremier)
+
+See some detailed benefits [here](http://cl.ly/Zyop "Premier Benefits Guide"). Need to find a copy of the benefits guide for more details. 
+
+###### Rental Car
+
+Allows you to be more confident at the rental car counter. You may be covered against theft or damage up to $100,000 for any rental car in any country when you pay with the card and decline the rental company’s collision loss/damage insurance.
+
+###### Price Protection 
+
+Covers price drops of an item. Must be within 60 days of purchase date. Covers up to **$300 per item**, $1,200 per year per account. 
+
+###### Extended Warranty
+
+Adds one year on warranties up to 5 years in length. Covers up to $10,000 per year. 
+
+###### Purchase Security
+
+Covers up to $1,000 per item up to $50,000 per year if purchased item is damaged or stolen within 120 days of purchase. 
+
+###### Trip Delay Protection
+
+Covers up to $500 per trip if you are delayed for 12 hours or more. 
+
+###### Baggage Delay Protection
+
+Covers up to $100 per trip if bags are delayed for 6 hours or more. 
+
+###### Lost Baggage Protection
+
+Covers up to $3,000 per person, per trip if items are lost, stolen, or damaged by the common carrier. Must pay with card.
+
+###### Trip Cancellation/Interruption
+
+Covers certain unforeseen events to cover non-refundable trip expenses. Up to $5,000 per year per account. Must pay with card.
