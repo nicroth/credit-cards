@@ -156,9 +156,13 @@ Extends MFR warranty by **one year** for warranties 1-5 years in length. **Doubl
 
 Covers items within 90 days of purchase. Covers theft and damage of items purchased by the card. Maximum $1,000 per occurrence and $50,000 per account per calendar year. 
 
-###### Baggage Insurance
+###### Baggage Insurance (Lost Baggage)
 
 Must charge entire fare to the card. Covers up to $1,250 for each covered person with loss of carry-on baggage and $500 for each covered person with loss of checked baggage. Maximum of $250 for certain high-risk items such as jewelry, photo equipment, etc. Full details [here](https://web.aexp-static.com/us/content/pdf/card-benefits/PremierRewardsGoldCardfromAmericanExpress/BIP_DOC.pdf).
+
+###### Baggage Delay Protection
+
+None.
 
 
 ###### Travel Accident Insurance
