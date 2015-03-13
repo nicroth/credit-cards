@@ -1,4 +1,4 @@
-### [Chase Sapphire Preferred](id:csp)
+### Chase Sapphire Preferred
 
 See detailed benefits [here](https://cdn.f9client.com/api/file/1130204/inline/SapphirePreferred_Visa_Signature_V0000037_BGC10374_Eng_P.pdf "CSP Benefits Guide"). It's interesting to note that these benefits almost entirely mention "some portion" of the trip cost must be charged to the card, whereas other cards require the "full cost" to be charged. 
 

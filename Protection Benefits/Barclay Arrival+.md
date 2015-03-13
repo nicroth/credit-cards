@@ -1,5 +1,5 @@
 
-### [Barclay Arrival+](id:arrivalplus)
+### Barclay Arrival+
 
 See detailed benefits [here](https://www.barclaycardus.com/servicing/img/base/guideBenefits/BAR-4667-4_AIR_MX.pdf "Arrival+ Benefits Guide").
 

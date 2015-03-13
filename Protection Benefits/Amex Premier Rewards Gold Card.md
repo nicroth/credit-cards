@@ -1,4 +1,4 @@
-### [American Express Premier Rewards Gold Card](id:amexprg)
+### American Express Premier Rewards Gold Card
 
 See detailed benefits [here](https://www304.americanexpress.com/personal-card-application/member/terms/premier-rewards-gold-card/36182-11-0/#cardbenefits "Amex PRG Benefits").
 

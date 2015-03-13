@@ -1,5 +1,5 @@
 
-### [Citi Premier](id:citipremier)
+### Citi Premier
 
 See some detailed benefits [here](http://cl.ly/Zyop "Premier Benefits Guide"). Need to find a copy of the benefits guide for more details. 
 
