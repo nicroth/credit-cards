@@ -33,4 +33,4 @@ None.
 
 ###### Travel Accident Insurance
 
-Must purchase the entire fare with the card. Covers up to $500,000. Loss of life is full $250,000. Other circumstances vary. See full details [here](https://web.aexp-static.com/us/content/pdf/card-benefits/PlatinumCardfromAmericanExpress/TAI-DOC.pdf).
+Must purchase the entire fare with the card. Covers up to $500,000. Loss of life is full $500,000. Other circumstances vary. See full details [here](https://web.aexp-static.com/us/content/pdf/card-benefits/PlatinumCardfromAmericanExpress/TAI-DOC.pdf).
