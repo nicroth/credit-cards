@@ -32,7 +32,7 @@ Platinum Version: Not offered.
 
 ###### Trip Cancellation and Trip Interruption
 
-Signature Version: Coverage up to **$5,000** for each covered trip. If any or all of the trip was paid for using redeemable rewards, you will be reimbursed for rewards used. Covers interruptions such as bodily injury, loss of live, sever weather, change in military orders, terrorist actions, jury duty, or finding your dwelling to be uninhabitable. 
+Signature Version: Coverage up to **$5,000** for each covered trip. If any or all of the trip was paid for using redeemable rewards, you will be reimbursed for rewards used. Covers interruptions such as bodily injury, loss of life, sever weather, change in military orders, terrorist actions, jury duty, or finding your dwelling to be uninhabitable. 
 
 Platinum Version: Not offered. 
 

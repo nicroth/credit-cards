@@ -12,7 +12,7 @@ Up to **4 times per calendar year**. Cardmember must be present with the vehicle
 
 ###### Return Protection
 
-If a merchant won't accept a return within 90 days of purchase, you can file a claim. Limited to **3500 per item** and $1,000 per year per account. Item must be returned to Amex, and it must be in "like new" condition. Some exclusions apply. Full details [here](americanexpress.com/RPterms).
+If a merchant won't accept a return within 90 days of purchase, you can file a claim. Limited to **300 per item** and $1,000 per year per account. Item must be returned to Amex, and it must be in "like new" condition. Some exclusions apply. Full details [here](americanexpress.com/RPterms).
 
 ###### Extended Warranty
 
