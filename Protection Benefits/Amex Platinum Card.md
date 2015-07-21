@@ -8,11 +8,11 @@ Covers full cost of the vehicle. Covers medical expenses up to $5,000. Covers up
 
 ###### Roadside Assistance
 
-Up to **4 times per calendar year**. Cardmember must be present with the vehicle. Covers tows up to 10 miles, winching, jump starts, flat tire when spare available, lockout service, and delivery of up to 2 gallons of fuel. Does not cover some vehicles, other exclusions apply. Full details [here](americanexpress.com/RAterms).
+Up to **4 times per calendar year**. Cardmember must be present with the vehicle. Covers tows up to 10 miles, winching, jump starts, flat tire when spare available, lockout service, and delivery of up to 2 gallons of fuel. Does not cover some vehicles, other exclusions apply. Full details [here](http://americanexpress.com/RAterms).
 
 ###### Return Protection
 
-If a merchant won't accept a return within 90 days of purchase, you can file a claim. Limited to **$300 per item** and $1,000 per year per account. Item must be returned to Amex, and it must be in "like new" condition. Some exclusions apply. Full details [here](americanexpress.com/RPterms).
+If a merchant won't accept a return within 90 days of purchase, you can file a claim. Limited to **$300 per item** and $1,000 per year per account. Item must be returned to Amex, and it must be in "like new" condition. Some exclusions apply. Full details [here](http://americanexpress.com/RPterms).
 
 ###### Extended Warranty
 
