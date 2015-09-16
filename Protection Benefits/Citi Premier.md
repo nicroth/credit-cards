@@ -19,6 +19,12 @@ Adds one year on warranties up to 5 years in length. Covers up to $10,000 per ye
 
 Covers up to $1,000 per item up to $50,000 per year if purchased item is damaged or stolen within 120 days of purchase. 
 
+###### Return Protection
+
+Enroll [here](https://www.cardbenefits.citi.com/Products/60-Day-Return-Guarantee.aspx) before making a purchase. 
+
+Return most purchases within 60-days regardless of store return policy. Maximum **$250 per item** and **$1,000** per year. 
+
 ###### Trip Delay Protection
 
 Covers up to $500 per trip if you are delayed for 12 hours or more. 
