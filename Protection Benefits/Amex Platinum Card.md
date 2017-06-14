@@ -24,7 +24,7 @@ Covers items within 90 days of purchase. Covers theft and damage of items purcha
 
 ###### Baggage Insurance (Lost Baggage)
 
-Must charge entire fare to the card. Covers up to $3,000 for each covered person with loss of carry-on baggage and $2,00 for each covered person with loss of checked baggage. Maximum of $250 for certain high-risk items such as jewelry, photo equipment, etc. Full details [here](https://web.aexp-static.com/us/content/pdf/card-benefits/PlatinumCardfromAmericanExpress/BIP_PLAT_DOC.pdf).
+Must charge entire fare to the card. Covers up to $3,000 for each covered person with loss of carry-on baggage and $2,000 for each covered person with loss of checked baggage. Maximum of $250 for certain high-risk items such as jewelry, photo equipment, etc. Full details [here](https://web.aexp-static.com/us/content/pdf/card-benefits/PlatinumCardfromAmericanExpress/BIP_PLAT_DOC.pdf).
 
 ###### Baggage Delay Protection
 
